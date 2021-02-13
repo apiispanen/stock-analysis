@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis with VBA
 
 ## Overview of Project
 Steve is a 
