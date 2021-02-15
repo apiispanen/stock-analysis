@@ -7,11 +7,11 @@ The purpose of the project is to analyze green stock data for 12 stocks to aid i
 The dataset here is for green stocks, which are environmentally friendly stocks. Per our module, we have picked 12 stocks to analyze specifically, in aid of Steve's project. 
 
 ## Results
-Based on the data we compiled, we can see an obvious trend between the years - generally speaking, the returns have flip flopped between years. In 2017, the returns on all stocks but one (TERP) were positive.
-![Results from our 2017 Macro](Resources/All_stocks_2017.png)
+Based on the data we compiled, we can see an obvious trend between the years - generally speaking, the returns have flip flopped between years. In 2017, the returns on all stocks but one (TERP) were positive.<br>
+![Results from our 2017 Macro](../../blob/main/Resources/All_stocks_2017.png)
 
- Contrasting that to the following year, 2018, all stocks but 2 (ENPH & RUN) are all negative, indicating a down year for Steve's portfolio.
-![Results from our 2018 Macro](Resources/All_stocks_2018.png)
+ Contrasting that to the following year, 2018, all stocks but 2 (ENPH & RUN) are all negative, indicating a down year for Steve's portfolio.<br>
+![Results from our 2018 Macro](../../blob/main/Resources/All_stocks_2018.png)
 
 
 ## Challenges
