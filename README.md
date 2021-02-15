@@ -7,6 +7,9 @@ The purpose of the project is to analyze green stock data for 12 stocks to aid i
 The dataset here is for green stocks, which are environmentally friendly stocks. Per our module, we have picked 12 stocks to analyze specifically, in aid of Steve's project. 
 
 ## Results
+
+### Stock Performance
+
 Based on the data we compiled, we can see an obvious trend between the years - generally speaking, the returns have flip flopped between years. In 2017, the returns on all stocks but one (TERP) were positive. However, some stocks such as DQ, ENPH, and SEDG had well over 100% returns.<br>
 ![Results from our 2017 Macro](/Resources/All_stocks_2017.PNG)
 
@@ -14,6 +17,9 @@ Based on the data we compiled, we can see an obvious trend between the years - g
 ![Results from our 2018 Macro](/Resources/All_stocks_2018.PNG)
  
 With the clear decline between years, there are still a few things to keep in mind. For one, there may be extraneous factors, such as an economic trough or bad publicity in green stocks, that could alter the price of the stocks we're analyzing. With that in mind, a bad year may have been caused from something not related to the strength of the stocks themselves, so it wouldn't be advisable to divest in such assets after a single bad year. 
+
+### Code Execution
+Before we refactored the code, the 2017 script ran in .711 seconds, and the 2018 in .727 seconds. After however, our refactored code ran in .109 seconds for 2017 and .102 seconds for 2018. This significant improvement in speed with the refactored code shows how powerful optimizing data structures internally can help the code to run faster, and make it easier to run on your computer.
 
 ## Challenges
 Using VBA to analyze stock information has many benefits. With its benefits, however, there are significant setbacks.  
