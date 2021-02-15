@@ -8,10 +8,10 @@ The dataset here is for green stocks, which are environmentally friendly stocks.
 
 ## Results
 Based on the data we compiled, we can see an obvious trend between the years - generally speaking, the returns have flip flopped between years. In 2017, the returns on all stocks but one (TERP) were positive.<br>
-![Results from our 2017 Macro](../../blob/main/Resources/All_stocks_2017.png)
+![Results from our 2017 Macro](/Resources/All_stocks_2017.PNG)
 
  Contrasting that to the following year, 2018, all stocks but 2 (ENPH & RUN) are all negative, indicating a down year for Steve's portfolio.<br>
-![Results from our 2018 Macro](../../blob/main/Resources/All_stocks_2018.png)
+![Results from our 2018 Macro](/Resources/All_stocks_2018.PNG)
 
 
 ## Challenges
